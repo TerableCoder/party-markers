@@ -41,7 +41,7 @@ module.exports = function PartyMarkers(mod) {
         partyMembers = event.members;
     })
             
-    mod.hook('S_SPAWN_USER', 14, (event) => {
+    mod.hook('S_SPAWN_USER', 15, (event) => {
         if (partyMembers.length == 0) return; // you must be in a party
         
         let job = (event.templateId  - 10101) % 100
