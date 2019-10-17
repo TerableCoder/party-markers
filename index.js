@@ -27,7 +27,7 @@ module.exports = function PartyMarkers(mod) {
         mod.command.message((mod.settings.enabled) ? 'Enabled' : 'Disabled');
     });
     
-    mod.hook('S_LOGIN', 13, (event) => {
+    mod.hook('S_LOGIN', 14, (event) => {
         partyMembers = [];
         markers = [];
     });

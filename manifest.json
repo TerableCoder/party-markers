@@ -4,12 +4,12 @@
             "overwrite": false,
             "hash": "5ae9f677f1ffcca119a3dc2ea65e0fceed3107abe2d1eb00c852018e4aaa7bdf"
         },
-        "index.js": "2c938f3de44c211e3e9bafa622c8246de8abfb8173b8a0758c157c67d6340599",
+        "index.js": "b0e7afddd63af5420252c6d6f8f72a44b9fcdf66973533ee326cc0ad5fce8bb6",
         "module.json": "6919ed993a02bf8892172825a03d31241334209bc5338a3aa029cbbde7b468e1",
 		"settings_migrator.js": "4944da59191a418c6d334ee5e487ad6ad1b2b0427c038560f99e6fe545c0d998"
     },
     "defs": {
-        "S_LOGIN": 13,
+        "S_LOGIN": 14,
         "S_LEAVE_PARTY": 1,
         "S_PARTY_MEMBER_LIST": 7,
         "S_SPAWN_USER": 14,
